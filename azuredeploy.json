@@ -28,10 +28,7 @@
       "minLength": 1,
       "allowedValues": [
         "westeurope",
-        "eastus2",
-        "southeastasia",
-        "centralus",
-        "westus"
+        "westus2"
       ],
       "defaultValue": "westeurope"
     }

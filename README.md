@@ -7,5 +7,5 @@
 <img src="https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/visualizebutton.png"/>
 </a>
 
-This template deploys a Cognitive Services Personalization Service API.
+This template deploys a Cognitive Services Personalizer API.
 In the outputs section it will show the Keys and the Endpoint.
